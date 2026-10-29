@@ -104,3 +104,6 @@ O layout foi concebido para simular uma ferramenta corporativa oficial:
 ## 📄 Licença
 
 [Este projeto é um dashboard demonstrativo para fins de análise e portfólio.](https://porsche-board.vercel.app/)
+
+<img width="1412" height="940" alt="image" src="https://github.com/user-attachments/assets/e2b14fc9-2a42-4175-a0e8-b6b87ee45944" />
+
